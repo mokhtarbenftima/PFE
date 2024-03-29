@@ -1,0 +1,15 @@
+.dashboard {
+  text-align: center;
+}
+
+.user-identification {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.menu button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
